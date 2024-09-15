@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lis",
+				"listar"
+			],
+			[
+				"ex",
+				"experiencia"
+			],
+			[
+				"va",
+				"vars2"
+			],
+			[
+				"listad",
+				"listado2"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"requerimi",
+				"requerimiento_id"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"evaluar",
+				"evaluar_pgp"
+			],
+			[
+				"cargos",
+				"cargos_id"
+			],
+			[
+				"url",
+				"urldecode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"areas_",
+				"areas_nb"
+			],
+			[
+				"color",
+				"color_eval"
+			],
+			[
+				"lista",
+				"listadoo"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"de",
+				"detalle"
+			],
+			[
+				"des",
+				"desde_aux"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/views/requerimiento/listado.php",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/listado_trabajadores2.js",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/confirm.js",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador_est/views/home/home.php",
+		"/C/wamp/www/ci_nuevo_est/application/views/layout2.0/layout.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador/controllers/requerimiento.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador_est/controllers/publicaciones.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador_est/views/trabajos/listado.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador_est/views/evaluaciones/informe.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador_est/controllers/trabajos.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador/controllers/evaluaciones.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/views/trabajadores/anotaciones.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/controllers/trabajadores.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/usuarios/controllers/login.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/usuarios/controllers/perfil.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/usuarios/views/perfil/perfil.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador/controllers/perfil.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador/views/editar_perfil.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador_est/controllers/home.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador_est/controllers/evaluaciones.php",
+		"/C/wamp/www/servicios.integraest.cl/application/config/config.php",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/__init__.pyc",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/usuarios/__init__.py",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/celery.py",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/task.py",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador/controllers/trabajador.php",
+		"/C/wamp/www/ci_nuevo_est/application/views/layout2.0/layout_horizontal_menu.php",
+		"/C/wamp/www/ci_nuevo_est/application/models/requerimiento_usuario_archivo_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/mandante/views/layout2.0/perfil_cargo.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/mandante/views/layout2.0/planilla.php",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/avance_pgp.js",
+		"/C/wamp/www/ci_nuevo_est/application/modules/mandante/views/layout2.0/avance.php",
+		"/C/wamp/www/ci_nuevo_est/application/models/requerimiento_asc_trabajadores_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/mandante/controllers/mandante.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/mandante/views/layout2.0/home.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/mandante/views/layout2.0/reportabilidad.php",
+		"/C/wamp/www/ci_nuevo_est/application/views/layout2.0/menus/menu_trabajador.php",
+		"/C/wamp/www/ci_nuevo_est/application/models/usuarios_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador/views/historial_trabajos.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/mandante/views/layout2.0/documentos_contractuales.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/documentos/controllers/documentos.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/views/trabajadores/listado2.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/views/requerimiento/crear_requerimiento.php",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/evaluar_pgp.js",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/views/requerimiento/modal_comentario.php",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/form-wizard.js",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/css/styles.css",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/views/requerimiento/json_planilla.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador/views/requerimientos/asignado.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador/views/requerimientos/listado_publicaciones.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador/views/requerimientos/anteriores.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajador/views/evaluacion/informe.php",
+		"/C/wamp/www/ci_nuevo_est/application/views/layout2.0/menus/menu_mandante.php",
+		"/C/wamp/www/ci_nuevo_est/application/views/layout2.0/menus/menu_admin.php",
+		"/C/wamp/www/ci_nuevo_est/application/models/usuarios2_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/config/email.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/abastecimiento/controllers/abastecimiento.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/controllers/requerimiento.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/views/trabajadores/listado4.php",
+		"/C/wamp/www/phpOCR/index.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/noticias/controllers/noticias.php",
+		"/C/wamp/www/ci_nuevo_est/application/controllers/cron.php",
+		"/C/wamp/www/ci_nuevo_est/cron.php",
+		"/C/Users/Empresas Integra/Desktop/config.php",
+		"/C/wamp/www/ci_nuevo_est/application/config/routes.php",
+		"/C/wamp/www/ci_nuevo_est/application/config/config.php",
+		"/C/Users/Empresas Integra/Desktop/trabajadores.php",
+		"/C/wamp/www/ci_nuevo_est/application/models/evaluaciones_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/models/requerimientos_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/mandante/controllers/perfil.php",
+		"/C/wamp/www/ci_nuevo_est/application/models/requerimiento_area_cargo_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/models/requerimiento_model.php",
+		"/C/Users/Empresas Integra/Desktop/urls.py",
+		"/C/Users/Empresas Integra/Desktop/connectbd.php",
+		"/C/Users/Empresas Integra/Desktop/database.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/usuarios/models/usuarios_general_model.php",
+		"/C/Users/Empresas Integra/Desktop/views_resp.py",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/anotaciones.js",
+		"/C/wamp/www/ci_nuevo_est/application/models/listanegra_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/controllers/trabajadoresla.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/views/requerimiento/usuarios_requerimiento.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/chat/views/contenido.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/chat/views/listado.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/chat/models/chat_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/chat/controllers/chat.php",
+		"/C/Users/Empresas Integra/Desktop/routes.php",
+		"/C/wamp/www/ci_nuevo_est/application/config/database.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/usuarios/controllers/home.php",
+		"/C/wamp/www/ci_nuevo_est/application/views/menus/menu_admin.php",
+		"/C/Users/Empresas Integra/Desktop/wp-config.php",
+		"/C/Users/Empresas Integra/Documents/sig/sig/settings.py",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/trabajadores/urls.py",
+		"/C/Users/Empresas Integra/Documents/test/www/index.html",
+		"/C/Users/Empresas Integra/Documents/sig/sig/urls.py",
+		"/C/Users/Empresas Integra/Desktop/settings.py",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/trabajadores/views.py",
+		"/C/Users/Empresas Integra/Documents/sig/sig/templates/trabajadores/index.html",
+		"/C/Users/Empresas Integra/Desktop/views.py",
+		"/C/Users/Empresas Integra/Desktop/index.html",
+		"/C/Users/Empresas Integra/Desktop/login.html",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/trabajadores/__init__.py",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/__init__.py",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/home/urls.py",
+		"/C/wamp/www/ci_nuevo_est/application/views/layout2.0/trabajadoresla.php",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/transporteLA/urls.py",
+		"/C/Users/Empresas Integra/Documents/test/www/js/app.js",
+		"/C/Users/Empresas Integra/Documents/sig/sig/apps/home/views.py",
+		"/C/wamp/www/ci_nuevo_est/application/models/authuser_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/models/areas_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/controllers/home.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/trabajadoresLA/controllers/trabajadoresla.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/usuarios/views/login/login.php",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/chat.js",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/lista_usuarios_req.js",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/requerimiento.js",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/detalle_pgp.js",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/planilla_pgp.js",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/mandante_index.js",
+		"/C/wamp/www/ci_nuevo_est/extras/layout2.0/assets/js/planilla.js",
+		"/C/wamp/www/ci_nuevo_est/index.php",
+		"/C/wamp/www/ci_nuevo_est/application/plugins/pqp_pi.php",
+		"/C/wamp/www/ci_nuevo_est/application/models/chat_model.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/controllers/evaluaciones.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/mandante/views/layout2.0/evaluacion.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/views/requerimiento/planilla.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/est/views/requerimiento/documentos_contractuales.php",
+		"/C/wamp/www/ci_nuevo_est/application/modules/mandante/views/layout2.0/modal_evaluar.php",
+		"/C/wamp/www/ci_nuevo_est/application/helpers/archivo_helper.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"estado",
+			"#datos-personales",
+			"img_error#datos-imagen",
+			"datos-extras",
+			"experiencia",
+			"panel_experiencia",
+			"perfil",
+			"agregar_exp",
+			">\n",
+			"ayouts_horizontal_menu.html",
+			"sv",
+			"modal",
+			"panel-config",
+			"modal",
+			"datos-exp",
+			"experi",
+			">\n",
+			"ano_egreso",
+			" \n",
+			"main-navigation-menu",
+			"home",
+			"();\n",
+			"objWriter",
+			"objPHPExcel",
+			"js",
+			"session",
+			"email",
+			"buscar_js",
+			"\" ",
+			"buscar_js",
+			"js",
+			"anotaciones",
+			"liquidacion",
+			"\"].\"' ",
+			"planilla_pgp",
+			">\n",
+			"avance_pgp",
+			"nombre",
+			">\n",
+			"detalle_pgp",
+			"'plugins/DataTables/media/css/jquery.dataTables.min.css','plugins/DataTables/FixedColumns/css/fixedColumns.dataTables.css'",
+			"buscar_js",
+			"r_get",
+			"js",
+			"cargo",
+			"detalle_pgp",
+			"archivo",
+			"usuarios_requeri",
+			"\"Search\"",
+			"Search",
+			"search",
+			"check",
+			"listado",
+			"especialida",
+			"agregar",
+			"planilla",
+			"toolti",
+			"Nombre",
+			"Requerimiento_Usuario_Archivo_model",
+			"requerimiento_usuario_archivo_model",
+			"\");\n",
+			"listado2",
+			"evaluacion",
+			"evaluac",
+			"evalua",
+			"listado",
+			"Servcicio",
+			"'),",
+			"datatable",
+			"planilla",
+			"usuarios_req",
+			"planilla",
+			";}",
+			"agregar",
+			"90",
+			"j_cargo",
+			"j_cargos",
+			"j_are",
+			"guardar_vista_previa2",
+			"guardar_vista",
+			"guardar_vista	",
+			"\");\n",
+			"',",
+			"listado_gente",
+			"agregar",
+			"]);\n",
+			"planill",
+			"planilla",
+			"total",
+			"gente",
+			"function",
+			"js",
+			"idiomas",
+			"usuario",
+			"usuarios",
+			"planilla",
+			"avance_pgp",
+			"bono_vuelta",
+			"vuelta"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Empresas Integra/Documents/sig/sig.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
